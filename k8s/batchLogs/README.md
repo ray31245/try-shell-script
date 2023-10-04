@@ -1,0 +1,1 @@
+usage: ` ./batchLogs.sh <count> `
